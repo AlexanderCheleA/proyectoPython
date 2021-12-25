@@ -4,8 +4,7 @@ from random import randint
 
 s=turtle.Screen()
 t=turtle.Turtle()
-s.bgcolor('gray')
-
+s.bgcolor('gray') #Establece el color de la pantalla con color gris
 
 time.sleep(0) #0 para q valla rapido 1 despacio 10 rapido                    
 t.penup()
